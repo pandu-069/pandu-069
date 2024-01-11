@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pandu-069
-- 👀 I’m interested in ApplicaION DEVELOPMENT
+- 👀 I’m interested in Application development
 - 🌱 I’m currently learning FRONT END LANGUAGES
 - 💞️ I’m looking to collaborate with interested people in coding
-- 📫 How to reach me throgh my website
+- 📫 How to reach me throgh my website   (https://sites.google.com/view/innovativecoding/home)
 - 😄 Pronouns: pandu
 - ⚡ Fun fact: Have some practical knowledge
 
