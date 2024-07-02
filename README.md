@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @pandu-069
-- 👀 I’m interested in Application development
-- 🌱 I’m currently learning FRONT END LANGUAGES
+- 👀 I’m interested in AI development
+- 🌱 I’m currently learning Frame works in python and technologies like react node.js etc
 - 💞️ I’m looking to collaborate with interested people in coding
-- 📫 How to reach me throgh my website   (https://sites.google.com/view/innovativecoding/home)
+- 📫 How to reach me (Email : vamsib0609@gmail.com)
 - 😄 Pronouns: pandu
-- ⚡ Fun fact: Have some practical knowledge
+- ⚡ Fun fact: Have some practical knowledge instead of bookish.
 
 <!---
 pandu-069/pandu-069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
