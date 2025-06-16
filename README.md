@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pandu-069
+- 👋 Hi, I’m @vamsi-0609
 - 👀 I’m interested in AI development
 - 🌱 I’m currently learning Frame works in python and technologies like react node.js etc
 - 💞️ I’m looking to collaborate with interested people in coding
